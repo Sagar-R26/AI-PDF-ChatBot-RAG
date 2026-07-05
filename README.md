@@ -209,5 +209,5 @@ Key settings in the sidebar "Advanced Settings" expander:
 ## Author
 
 **Sagar R**
-- GitHub: [@SagarR]([https://github.com/SagarR](https://github.com/Sagar-R26))
+- GitHub: https://github.com/Sagar-R26
 - Project: AI PDF ChatBot(RAG)
