@@ -210,4 +210,4 @@ Key settings in the sidebar "Advanced Settings" expander:
 
 **Sagar R**
 - GitHub: https://github.com/Sagar-R26
-- Project: AI PDF ChatBot(RAG)
+- Project: AI PDF ChatBot (RAG)
